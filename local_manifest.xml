@@ -72,12 +72,6 @@
 	<project name="vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" remote="ash" revision="main"/>
 	<project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="lineage" revision="lineage-21"/>
 	
-	<!-- Poco F6 -->
-	<!--project name="device_xiaomi_peridot" path="device/xiaomi/peridot" remote="ash" revision="main"/>
-	<project name="kernel_xiaomi_peridot" path="kernel/xiaomi/peridot" remote="ash" revision="main"/>
-	<project name="vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="ash" revision="main"/>
-	<project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="lineage" revision="lineage-21"/-->
-	
 	<!-- Extras -->
 	<project name="vendor_lawnchair" path="vendor/lawnchair" remote="ash" revision="main"/> 
 	<project name="vendor_bcr" path="vendor/bcr" remote="ash" revision="main"/>
