@@ -2,12 +2,12 @@
 	<!-- LineageOS Github -->
   <remote name="lineage"
    fetch="https://github.com/LineageOS"
-   revision="lineage-22.1" />
+   revision="lineage-22.2" />
   
 	<!-- The Muppets Github -->
   <remote name="muppets"
    fetch="https://github.com/TheMuppets"
-   revision="lineage-22.1" />
+   revision="lineage-22.2" />
 			  
 	<!-- Pixel 7/7 Pro -->
 	<project name="android_device_google_gs201" path="device/google/gs201" remote="lineage" revision="lineage-22.1"/>
